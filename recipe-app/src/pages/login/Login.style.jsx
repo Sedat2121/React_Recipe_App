@@ -53,6 +53,7 @@ export const StyledButton = styled.button`
     cursor: pointer;
     &:hover {
     opacity: 0.8;
+    }
 `;
 
 export const StyledImg = styled.img`
