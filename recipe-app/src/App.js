@@ -8,7 +8,7 @@ function App() {
         <ThemeProvider theme={theme}>
             <AppRouter />
         </ThemeProvider>
-    );
+    )
 }
 
 export default App;
