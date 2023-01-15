@@ -25,6 +25,12 @@ const AppRouter = () => {
             </Routes>
         </BrowserRouter>
     );
-};
+}
 
 export default AppRouter;
+
+// Without using PrivateRouter;
+// <Route path="/" element={<Login/>}/>
+// <Route path="/home" element={<Home/>}/>
+// <Route path="/about" element={<About/>}/>
+// <Route path="/details" element={<Details/>}/>

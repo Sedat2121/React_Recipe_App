@@ -8,7 +8,7 @@ const Navbar = () => {
     return (
         <Nav justify="space-between" wrap="wrap">
             <Brand to="/">
-                <i>{"<Clarusway/>"}</i>
+                <i>{"<LONDON />"}</i>
                 <span>Recipe</span>
             </Brand>
 
